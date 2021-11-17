@@ -1,6 +1,4 @@
 """Import the calculator class"""
-import pytest
-
 from calc.calculator import Calculator
 
 
